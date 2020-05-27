@@ -6,7 +6,7 @@ If you need the help of any person or team to apply these changes, please `@` th
 
 * Plese check if the pull request fulfills these requirements:
 
-- [ ] The commit message follows our guidelines;
+- [ ] The commit message follows our [guidelines](https://3778.atlassian.net/wiki/spaces/ENG/pages/206897153/Git+GitHub#Commit-Message);
 - [ ] Tests for the changes have been added/performed;
 - [ ] Docs have been added/updated.
 
