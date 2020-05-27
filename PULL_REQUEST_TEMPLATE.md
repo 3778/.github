@@ -1,8 +1,8 @@
 Thank you for contributing, please fill these checks and give more information about the changes you're introducing.
-Many of these questions are optional, but please have in mind that a better description lead to a better review.
+Many of these questions are optional, but please keep in mind that a better description leads to a better review.
 For questions that don't apply to your changes, just answer `N/A`.
 
-If you need the help of any person or team to apply these changes, please address to them in the end of the description or mark them as reviwers, if it makes more sense.
+If you need the help of any person or team to apply these changes, please `@` them in the end of the description or mark them as reviewers, if it makes more sense.
 
 * Plese check if the pull request fulfills these requirements:
 
@@ -25,9 +25,8 @@ If you need the help of any person or team to apply these changes, please addres
 * How to test this feature/fix?
 
 
-* There is anyone more suited to test the changes introduced by this pull request?
+* Is anyone more suited to test the changes introduced by this pull request?
 
 
-* Add more information to help the reviwers, e.g. references, comments, explanations, links for the added documentation and/or link for the issue description:
-
+* Add more information to help the reviewers, e.g. references, comments, explanations, links for the added documentation and/or link for the issue description:
 
