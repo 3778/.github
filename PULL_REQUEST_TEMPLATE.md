@@ -4,29 +4,29 @@ For questions that don't apply to your changes, just answer `N/A`.
 
 If you need the help of any person or team to apply these changes, please `@` them in the end of the description or mark them as reviewers, if it makes more sense.
 
-* Plese check if the pull request fulfills these requirements:
+#### Plese check if the pull request fulfills these requirements:
 
 - [ ] The commit message follows our [guidelines](https://3778.atlassian.net/wiki/spaces/ENG/pages/206897153/Git+GitHub#Commit-Message);
 - [ ] Tests for the changes have been added/performed;
 - [ ] Docs have been added/updated.
 
-* What's the purpose of this pull request?
+#### What's the purpose of this pull request?
 
 
-* If it is a bug fix, what was the root cause?
+#### If it is a bug fix, what was the root cause?
 
 
-* What did you do to accomplish its purpose? Explain what you've done.
+#### What did you do to accomplish its purpose? Explain what you've done.
 
 
-* Does this pull request introduce breaking changes?
+#### Does this pull request introduce breaking changes?
 
 
-* How to test this feature/fix?
+#### How to test this feature/fix?
 
 
-* Is anyone more suited to test the changes introduced by this pull request?
+#### Is anyone more suited to test the changes introduced by this pull request?
 
 
-* Add more information to help the reviewers, e.g. references, comments, explanations, links for the added documentation and/or link for the issue description:
+#### Add more information to help the reviewers, e.g. references, comments, explanations, links for the added documentation and/or link for the issue description:
 
