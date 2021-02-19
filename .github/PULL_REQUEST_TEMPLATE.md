@@ -6,7 +6,7 @@ For questions that don't apply to your changes, just answer `N/A`.
 If you need the help of any person or team to apply these changes, please `@` them in the end of the description or mark them as reviewers, if it makes more sense.
 --->
 
-### Plese check if the pull request fulfills these requirements:
+### Please check if the pull request fulfills these requirements:
 
 - [ ] The commit message follows our [guidelines](https://3778.atlassian.net/wiki/spaces/ENG/pages/252543089/How+We+Use+GitHub);
 - [ ] Tests for the changes have been added/performed;
