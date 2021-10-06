@@ -1,7 +1,7 @@
 <!---
 Thank you for contributing, please fill these checks and give more information about the changes you're introducing.
 Many of these questions are optional, but please keep in mind that a better description leads to a better review.
-For questions that don't apply to your changes, just delete it's section.
+For questions that don't apply to your changes, just delete its section.
 
 Please check if the pull request fulfills these requirements:
 1. The commit messages follow our [guidelines](https://3778.atlassian.net/wiki/spaces/ENG/pages/252543089/How+We+Use+GitHub);
