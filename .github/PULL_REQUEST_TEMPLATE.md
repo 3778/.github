@@ -10,7 +10,7 @@ Please check if the pull request fulfills these requirements:
 
 If you need the help of any person or team to apply these changes, please `@` them in the end of the description and mark them as reviewers.
 
-You should delete this commented instructions from the PR description.
+This comment section won't be displayed on the PR description. If you wish to remove it from the description source fell free to delete it.
 --->
 ### What's the purpose of this pull request?
 
